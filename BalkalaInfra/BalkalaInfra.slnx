@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BalkalaInfra.Api/BalkalaInfra.Api.csproj" />
+  <Project Path="BalkalaInfra.Application/BalkalaInfra.Application.csproj" />
+  <Project Path="BalkalaInfra.Domain/BalkalaInfra.Domain.csproj" />
+  <Project Path="BalkalaInfra.Infrastructure/BalkalaInfra.Infrastructure.csproj" />
+  <Project Path="BalkalaInfra.Tests/BalkalaInfra.Tests.csproj" />
+</Solution>
